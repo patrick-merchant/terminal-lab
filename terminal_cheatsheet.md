@@ -29,4 +29,4 @@
 
 <br>
 
-![A screenshot of some basic terminal commands!](/Users/patrickmerchant/bnta/coursework/week_01/day_02/terminal_commands/terminal_screenshot.jpg "Terminal Screenshot")
+![A screenshot of some basic terminal commands!](terminal-lab/terminal_screenshot.jpg "Terminal Screenshot")
