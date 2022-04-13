@@ -29,4 +29,4 @@
 
 <br>
 
-![A screenshot of some basic terminal commands!](terminal-lab/terminal_screenshot.jpg "Terminal Screenshot")
+![A screenshot of some basic terminal commands!](https://raw.githubusercontent.com/patrick-merchant/terminal-lab/main/terminal_screenshot.jpg "Terminal Screenshot")
